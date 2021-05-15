@@ -9,6 +9,7 @@ This is the legendary Titanic ML competition – the best, challenge to dive int
 My Solution: https://lnkd.in/gnFRx7p
 
 If you found this notebook helpful or you just liked it, some upvotes would be very much appreciated - That will keep me motivated :)
+thank you
 
 https://lnkd.in/gnFRx7p
 
